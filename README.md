@@ -1,2 +1,2 @@
 # hello-world
-Generic catch all repository
+generic catch all repository
